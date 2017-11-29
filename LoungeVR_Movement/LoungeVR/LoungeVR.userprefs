@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Extra Assets\VRTK\Examples\ExampleResources\Scripts\Controller_Menu.cs">
+    <Files>
+      <File FileName="Assets\OVR\Plugins\placeholder.txt" Line="1" Column="1" />
+      <File FileName="Assets\OvrAvatar\Scripts\OvrAvatar.cs" Line="1" Column="1" />
+      <File FileName="Assets\OvrAvatar\Samples\SocialStarter\Assets\Scripts\P2PManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\OvrAvatar\Content\Materials\AvatarSurfaceShaderPBS.shader" Line="1" Column="1" />
+      <File FileName="Assets\OvrAvatar\Content\Materials\AvatarSurfaceShader.shader" Line="1" Column="1" />
+      <File FileName="Assets\Extra Assets\VRTK\Examples\ExampleResources\Scripts\Controller_Menu.cs" Line="12" Column="41" />
+      <File FileName="Assets\Extra Assets\VRTK\Examples\ExampleResources\Scripts\Menu_Object_Spawner.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
